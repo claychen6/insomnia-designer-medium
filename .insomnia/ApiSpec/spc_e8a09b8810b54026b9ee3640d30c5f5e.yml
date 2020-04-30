@@ -32,7 +32,7 @@ contents: >
             "$ref": "#/definitions/Narrative"
           },
           "extension": {
-            "description": "May be used to represent additional information that is not part of the basic definition of the resource. To make the use of extensions safe and manageable, there is a strict set of governance  applied to the definition and use of extensions. Though any implementer can define an extension, there is a set of requirements that SHALL be met as part of the definition of the extension.",
+            "description": "Change 3. May be used to represent additional information that is not part of the basic definition of the resource. To make the use of extensions safe and manageable, there is a strict set of governance  applied to the definition and use of extensions. Though any implementer can define an extension, there is a set of requirements that SHALL be met as part of the definition of the extension.",
             "items": {
               "$ref": "#/definitions/Extension"
             },
@@ -3237,6 +3237,6 @@ contents: >
   }
 created: 1588210499880
 fileName: Imported Workspace
-modified: 1588211050907
+modified: 1588211109580
 parentId: wrk_98caffb15b724ad7b95cd71fd3fa68d1
 type: ApiSpec
