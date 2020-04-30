@@ -5,14 +5,14 @@ contents: >
     "swagger": "2.0",
     "definitions": {
       "ExplanationOfBenefit": {
-        "description": "Testing git changes outside of Insomia. This resource provides: the claim details; adjudication details from the processing of a Claim; and optionally account balance information, for informing the subscriber of the benefits provided.",
+        "description": "Change 1. Testing git changes outside of Insomia. This resource provides: the claim details; adjudication details from the processing of a Claim; and optionally account balance information, for informing the subscriber of the benefits provided.",
         "properties": {
           "resourceType": {
             "description": "This is a ExplanationOfBenefit resource",
             "type": "string"
           },
           "id": {
-            "description": "The logical id of the resource, as used in the URL for the resource. Once assigned, this value never changes.",
+            "description": "Change 2. The logical id of the resource, as used in the URL for the resource. Once assigned, this value never changes.",
             "$ref": "#/definitions/id"
           },
           "meta": {
@@ -3237,6 +3237,6 @@ contents: >
   }
 created: 1588210499880
 fileName: Imported Workspace
-modified: 1588210499893
+modified: 1588211050907
 parentId: wrk_98caffb15b724ad7b95cd71fd3fa68d1
 type: ApiSpec

@@ -1,0 +1,27 @@
+_id: req_bf58b72aca4342b799c34c3e1fbfc516
+authentication: {}
+body: {}
+created: 1588210990072
+description: Retrieve ExplanationOfBenefit History
+headers: []
+isPrivate: false
+metaSortKey: -1588210990072
+method: GET
+modified: 1588210990072
+name: Retrive ExplanationOfBenefit History
+parameters:
+  - disabled: true
+    name: _since
+    value: string
+  - disabled: true
+    name: _count
+    value: string
+parentId: fld_653eecacd72344468bcaa679a962d17f
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit/_history"

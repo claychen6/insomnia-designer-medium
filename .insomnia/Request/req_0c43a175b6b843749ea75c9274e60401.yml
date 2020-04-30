@@ -1,0 +1,21 @@
+_id: req_0c43a175b6b843749ea75c9274e60401
+authentication: {}
+body: {}
+created: 1588210983846
+description: Retrieve ExplanationOfBenefit by providing ID
+headers: []
+isPrivate: false
+metaSortKey: -1588210983846
+method: GET
+modified: 1588210983846
+name: Retrieve ExplanationOfBenefit by ID
+parameters: []
+parentId: fld_a48711ad20b742fc8792925869703aae
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit/{{ id }}"

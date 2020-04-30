@@ -1,0 +1,99 @@
+_id: req_807b0d3317484ee98b91cf20726b6fa7
+authentication: {}
+body: {}
+created: 1588210990080
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1588210990080
+method: GET
+modified: 1588210990080
+name: Get ExplanationOfBenefit
+parameters:
+  - disabled: true
+    name: _text
+    value: string
+  - disabled: true
+    name: _content
+    value: string
+  - disabled: true
+    name: _id
+    value: string
+  - disabled: true
+    name: _lastUpdated
+    value: string
+  - disabled: true
+    name: _profile
+    value: string
+  - disabled: true
+    name: _query
+    value: string
+  - disabled: true
+    name: _security
+    value: string
+  - disabled: true
+    name: _source
+    value: string
+  - disabled: true
+    name: _tag
+    value: string
+  - disabled: true
+    name: care-team
+    value: string
+  - disabled: true
+    name: claim
+    value: string
+  - disabled: true
+    name: coverage
+    value: string
+  - disabled: true
+    name: created
+    value: string
+  - disabled: true
+    name: detail-udi
+    value: string
+  - disabled: true
+    name: disposition
+    value: string
+  - disabled: true
+    name: encounter
+    value: string
+  - disabled: true
+    name: enterer
+    value: string
+  - disabled: true
+    name: facility
+    value: string
+  - disabled: true
+    name: identifier
+    value: string
+  - disabled: true
+    name: item-udi
+    value: string
+  - disabled: true
+    name: patient
+    value: string
+  - disabled: true
+    name: payee
+    value: string
+  - disabled: true
+    name: procedure-udi
+    value: string
+  - disabled: true
+    name: provider
+    value: string
+  - disabled: true
+    name: status
+    value: string
+  - disabled: true
+    name: subdetail-udi
+    value: string
+parentId: fld_653eecacd72344468bcaa679a962d17f
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit"

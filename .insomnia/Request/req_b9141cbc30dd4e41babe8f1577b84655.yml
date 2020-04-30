@@ -1,0 +1,21 @@
+_id: req_b9141cbc30dd4e41babe8f1577b84655
+authentication: {}
+body: {}
+created: 1588210983825
+description: Retrieve ExplanationOfBenefit History by providing ID and version
+headers: []
+isPrivate: false
+metaSortKey: -1588210983825
+method: GET
+modified: 1588210983825
+name: Retrive ExplanationOfBenefit History by ID and Version
+parameters: []
+parentId: fld_a48711ad20b742fc8792925869703aae
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit/{{ id }}/_history/{{ vid }}"

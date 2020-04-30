@@ -1,0 +1,21 @@
+_id: req_8fb992fb1192407d880e4bf55d155da1
+authentication: {}
+body: {}
+created: 1588210983840
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1588210983840
+method: DELETE
+modified: 1588210983840
+name: Remove ExplanationOfBenefit by ID
+parameters: []
+parentId: fld_a48711ad20b742fc8792925869703aae
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit/{{ id }}"
