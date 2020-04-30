@@ -1,0 +1,21 @@
+_id: req_9d0dfe84cafe48b684cc356c4a777b38
+authentication: {}
+body: {}
+created: 1588210499871
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1588210499871
+method: PUT
+modified: 1588210499871
+name: Update ExplanationOfBenefit
+parameters: []
+parentId: fld_742e9bc83a98456e9150e8d51d4457c9
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit/{{ id }}"

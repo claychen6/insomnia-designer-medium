@@ -1,0 +1,10 @@
+_id: fld_742e9bc83a98456e9150e8d51d4457c9
+created: 1588210499884
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1588210499884
+modified: 1588210499884
+name: ExplanationOfBenefit
+parentId: wrk_98caffb15b724ad7b95cd71fd3fa68d1
+type: RequestGroup

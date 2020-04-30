@@ -1,0 +1,21 @@
+_id: req_26e1aa5a83a34a3198be0483dfd375bf
+authentication: {}
+body: {}
+created: 1588210499877
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1588210499877
+method: POST
+modified: 1588210499877
+name: Create ExplanationOfBenefit
+parameters: []
+parentId: fld_742e9bc83a98456e9150e8d51d4457c9
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/ExplanationOfBenefit"
